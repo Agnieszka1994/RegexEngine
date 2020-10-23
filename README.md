@@ -8,7 +8,7 @@ In the output there is a boolean representing whether the string matches the reg
 - download the repository
 - run the program in the command-line
 ```
-NumericMatrixProcessor > python main.py
+RegexEngine > python main.py
 ```
 ### Sample usage
 **Usage of `$` and `^`:**
